@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KampIntro1", "KampIntro1\KampIntro1.csproj", "{8D2E459C-62ED-4929-A2F0-E0046CD8BB93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dongular", "Dongular\Dongular.csproj", "{E35202E9-21A8-472F-9460-C67B4C97F7D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{CFF42F3D-3A2E-47BA-BE1D-B2D99BE2C9F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D2E459C-62ED-4929-A2F0-E0046CD8BB93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D2E459C-62ED-4929-A2F0-E0046CD8BB93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D2E459C-62ED-4929-A2F0-E0046CD8BB93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D2E459C-62ED-4929-A2F0-E0046CD8BB93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E35202E9-21A8-472F-9460-C67B4C97F7D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E35202E9-21A8-472F-9460-C67B4C97F7D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E35202E9-21A8-472F-9460-C67B4C97F7D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E35202E9-21A8-472F-9460-C67B4C97F7D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFF42F3D-3A2E-47BA-BE1D-B2D99BE2C9F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFF42F3D-3A2E-47BA-BE1D-B2D99BE2C9F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFF42F3D-3A2E-47BA-BE1D-B2D99BE2C9F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFF42F3D-3A2E-47BA-BE1D-B2D99BE2C9F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {366C3662-F143-4179-8B19-E55EE5FD0637}
+	EndGlobalSection
+EndGlobal
